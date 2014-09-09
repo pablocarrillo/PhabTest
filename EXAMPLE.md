@@ -1,5 +1,6 @@
 **Show User**
-----
+=============
+
   Returns json data about a single user.
 
 * **URL**
@@ -33,7 +34,7 @@
   OR
 
   * **Code:** 401 UNAUTHORIZED <br />
-    **Content:** `{ error : "You are unauthorized to make this request." }`
+    **Content:** `{ error : "No no no, bad boy." }`
 
 * **Sample Call:**
 
